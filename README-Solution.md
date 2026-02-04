@@ -27,7 +27,6 @@ Users should be able to:
 
 ![](./design/dexters-desktop-design.png) ![](./design/dexters-mobile-design.png) ![](./design/active-states.png)
 
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/MrDexterO/Social-links-profile-challenge-on-Frontend-Mentor)
