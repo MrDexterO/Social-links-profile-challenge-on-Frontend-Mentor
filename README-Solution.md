@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MrDexterO/Social-links-profile-challenge-on-Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://mrdextero.github.io/Social-links-profile-challenge-on-Frontend-Mentor/)
+- Solution URL: [Solution URL](https://github.com/MrDexterO/Social-links-profile-challenge-on-Frontend-Mentor)
+- Live Site URL: [live Site](https://mrdextero.github.io/Social-links-profile-challenge-on-Frontend-Mentor/)
 
 ## My process
 
