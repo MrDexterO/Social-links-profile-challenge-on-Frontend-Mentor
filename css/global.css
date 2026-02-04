@@ -56,8 +56,9 @@ h1 {
 
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.15rem;
     line-height: 1;
+    font-weight: 500;
 }
 
 h3 {
@@ -91,4 +92,5 @@ p {
 a {
     width: 100%;
     height: auto;
+
 }
